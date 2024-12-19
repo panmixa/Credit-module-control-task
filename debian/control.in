@@ -1,0 +1,11 @@
+Source: @PACKAGE_NAME@
+Section: utils
+Priority: optional
+Maintainer: @PACKAGE_BUGREPORT@
+Standards-Version: 4.5.1
+
+Package: @PACKAGE_NAME@
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: @PACKAGE_NAME@ is a simple application
+ This is a placeholder for the package description.

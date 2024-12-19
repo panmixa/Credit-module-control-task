@@ -1,0 +1,11 @@
+Source: MyCppApp
+Section: utils
+Priority: optional
+Maintainer: m.panad2809@gmail.com
+Standards-Version: 4.5.1
+
+Package: MyCppApp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: MyCppApp is a simple application
+ This is a placeholder for the package description.
